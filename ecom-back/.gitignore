@@ -1,0 +1,40 @@
+.venv/
+# Flask related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc/
+instance/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+venv/
+env/
+env1/
+env2/
+env3/
+env4/
+env5/
+
+# OS generated files
+.DS_Store
+Thumbs.db
